@@ -33,6 +33,7 @@ Creating Tickets as end users
    
 <img src="https://i.imgur.com/JkW02hQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
 - Create a ticket for end user Karen Doe
 - Type "Karen@osticket.com" in email box
 - Type "Karen Doe" in Full Name box
@@ -40,6 +41,7 @@ Creating Tickets as end users
 - Type "entire mobile online banking is down" in Issue Summary box
 - Type "Customers are reporting they are getting a 404 error when browsing to online banking" in description box
 - Click Create Ticket
+
 
 <img src="https://i.imgur.com/bTgxHWT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
