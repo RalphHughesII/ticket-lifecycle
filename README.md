@@ -96,6 +96,11 @@ Resolving Tickets
   - Change Department to Systems Administrators
   - Change SLA to Sev-A
      - Type "Business impacting event" in notes section
+     - Scroll down to Reply section
+        - Type "Coordinating with Sys Admin Team to bring mobile banking back to life" in the text box below post reply
+        - Click Post Reply
+      
+<img src="https://i.imgur.com/VfNcUtc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 </p>
 <br />
 
