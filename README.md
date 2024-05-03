@@ -93,6 +93,7 @@ Resolving Tickets
  - Click on Karen Doe's "entire mobile online banking is down" ticket
  - Click on "Normal" in the Priority section.  Change to Emergency
     - Type "Business impacting event" in notes section
+  - Click assigned to.  Assign this ticket to Karen Doe
   - Change Department to Systems Administrators
   - Change SLA to Sev-A
      - Type "Business impacting event" in notes section
