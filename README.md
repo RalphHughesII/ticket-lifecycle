@@ -141,7 +141,12 @@ Click on Ken Doe's "Entire Account Department Adobe Reader Not Working" ticket
  - Click Post Note
  - Log out of John's account
  - Log in using administrator account
- - 
+ - Click Agents, then click departments, click support department, click access tab
+ - Change John's access to Supreme Admin
+ - Click save changes
+ - Log out of this account
+
+<img src="https://i.imgur.com/P9S1Cpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 
    
         
