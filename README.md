@@ -80,9 +80,9 @@ Resolving Tickets
 
   - Log into osTicket as an administrator
   - Click Admin panel, click agents and select Jane Doe
-  - Add Jane Doe to the Support Depart and assign her Supreme Admin access
+  - Add Jane Doe to the Support Department and assign her Supreme Admin access
 
-  <img src="https://i.imgur.com/8ahb1aX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/0sEp9YG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   - Click Save Changes
   - Log into osTicket as an Jane Doe (http://localhost/osTicket/scp/login.php)
