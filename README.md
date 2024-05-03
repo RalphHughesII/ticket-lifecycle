@@ -98,7 +98,7 @@ Resolving Tickets
   - Change SLA to Sev-A
      - Type "Business impacting event" in notes section
      - Scroll down to Reply section
-        - Type "Coordinating with Sys Admin Team to bring mobile banking back to life" in the text box below post reply
+        - Type "Re-assigned to SEV-B, reached out to John for a warm handoff" in the text box below post reply
         - Click Post Reply
         - Type "Jerry corrected the error.  Mobile bank should be back up" in the text box
         - Change ticket status to resolved
@@ -109,8 +109,18 @@ Resolving Tickets
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on Ken Doe's "Entire Account Department Adobe Reader NOt Working" ticket
+ - Click on "Normal" in the Priority section.  Change to High
+  - Click assigned to.  Assign this ticket to John Doe
+  - Change Department to Systems Administrators
+  - Change SLA to Sev-B
+     - Type "Business impacting event" in notes section
+     - Scroll down to Reply section
+        - Type "Re-assigned to SEV-B, reached out to John for a warm handoff" in the text box below post reply
+        - Click Post Reply
+  - Click Tickets tab
+    
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
