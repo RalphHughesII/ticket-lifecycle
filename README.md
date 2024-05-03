@@ -46,8 +46,18 @@ Creating Tickets as end users
 <img src="https://i.imgur.com/bTgxHWT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+- Create a ticket for end user Ken Doe
+- Click Open a New Ticket
+- Type "Ken@osticket.com" in email box
+- Type "Ken Doe" in Full Name box
+- Select Personal Computer Issue for Help Topic
+- Type "entire account department Adobe Reader not working" in Issue Summary box
+- Type "Ever since the upgrade last night, nobody in accounting has been able to use adobe reader" in description box
+- Click Create Ticket
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iYbhGqY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
