@@ -114,7 +114,6 @@ Click on Ken Doe's "Entire Account Department Adobe Reader NOt Working" ticket
   - Click assigned to.  Assign this ticket to John Doe
   - Change Department to Systems Administrators
   - Change SLA to Sev-B
-     - Type "Business impacting event" in notes section
      - Scroll down to Reply section
         - Type "Re-assigned to SEV-B, reached out to John for a warm handoff" in the text box below post reply
         - Click Post Reply
@@ -124,7 +123,18 @@ Click on Ken Doe's "Entire Account Department Adobe Reader NOt Working" ticket
 <img src="https://i.imgur.com/tGHnGbv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
+- Click on Karen Doe's "When are we getting a hardware refresh" ticket
+  - Click assigned to.  Assign this ticket to Jane Doe
+  - Change Department to Systems Administrators
+  - Change SLA to Sev-C
+     - Scroll down to Reply section
+        - Type "Hardware refresh is scheduled for Q1." in the text box below post reply
+        - Change Ticket Status to "Resolved"
+        - Click Post Reply
 
+<img src="https://i.imgur.com/4rCQqW5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+        
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
