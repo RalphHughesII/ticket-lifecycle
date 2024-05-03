@@ -30,8 +30,19 @@ Creating Tickets as end users
 
  - Navigate to end users osTicket URL:  http://localhost/osTicket/
  - Click open a ticket
- - 
+   
 <img src="https://i.imgur.com/JkW02hQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+- Create a ticket for end user Karen Doe
+- Type "Karen@osticket.com" in email box
+- Type "Karen Doe" in Full Name box
+- Select Business Critical Outage for Help Topic
+- Type "entire mobile online banking is down" in Issue Summary box
+- Type "Customers are reporting they are getting a 404 error when browsing to online banking" in description box
+- Click Create Ticket
+
+<img src="https://i.imgur.com/bTgxHWT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
