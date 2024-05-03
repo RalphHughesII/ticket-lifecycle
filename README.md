@@ -100,7 +100,7 @@ Resolving Tickets
         - Type "Coordinating with Sys Admin Team to bring mobile banking back to life" in the text box below post reply
         - Click Post Reply
       
-<img src="https://i.imgur.com/VfNcUtc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/VfNcUtc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
