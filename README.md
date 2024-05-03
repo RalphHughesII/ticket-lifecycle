@@ -78,10 +78,24 @@ Creating Tickets as end users
 <p>
 Resolving Tickets
 
-  - Log into osTicket as an administrator (http://localhost/osTicket/scp/login.php)
+  - Log into osTicket as an administrator
+  - Click Admin panel, click agents and select Jane Doe
+  - Add Jane Doe to the Support Depart and assign her Supreme Admin access
+
+  <img src="https://i.imgur.com/8ahb1aX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  - Click Save Changes
+  - Log into osTicket as an Jane Doe (http://localhost/osTicket/scp/login.php)
   - Observe the end users tickets that were recently created
 
-<img src="https://i.imgur.com/8ahb1aX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0sEp9YG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Click on Karen Doe's "entire mobile online banking is down" ticket
+ - Click on "Normal" in the Priority section.  Change to Emergency
+    - Type "Business impacting event" in notes section
+  - Change Department to Systems Administrators
+  - Change SLA to Sev-A
+     - Type "Business impacting event" in notes section
 </p>
 <br />
 
