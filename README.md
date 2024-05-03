@@ -60,6 +60,7 @@ Creating Tickets as end users
 <img src="https://i.imgur.com/iYbhGqY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 - Create a ticket for end user Karen Doe
 - Click Open a New Ticket
 - Type "Karen@osticket.com" in email box
