@@ -148,8 +148,14 @@ Click on Ken Doe's "Entire Account Department Adobe Reader Not Working" ticket
 
 <img src="https://i.imgur.com/P9S1Cpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 
-   
-        
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - Log in as John Doe
+  - Open "entire account department Adobe Reader not working" ticket
+  - Type "Figured out the problem, upgraded everyone.  Everyone's Adobe Reader works" in the text box below post reply
+  - Change Ticket Status to "Resolved"
+   - Click Post Reply
+
+<img src="https://i.imgur.com/hA9ODMi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+
+
 </p>
 <br />
