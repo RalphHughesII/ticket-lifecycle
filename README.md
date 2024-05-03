@@ -109,7 +109,7 @@ Resolving Tickets
 </p>
 <br />
 
-Click on Ken Doe's "Entire Account Department Adobe Reader NOt Working" ticket
+Click on Ken Doe's "Entire Account Department Adobe Reader Not Working" ticket
  - Click on "Normal" in the Priority section.  Change to High
   - Click assigned to.  Assign this ticket to John Doe
   - Change Department to Systems Administrators
@@ -134,6 +134,16 @@ Click on Ken Doe's "Entire Account Department Adobe Reader NOt Working" ticket
         - Click Post Reply
 
 <img src="https://i.imgur.com/4rCQqW5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Log off of Janed Doe account and log into John Doe's account
+ - Open "entire account department Adobe Reader not working" ticket
+ - Scroll down to reply section and type "Rolled back version of Adobe Reader to previous version allowing them to work" in the text box
+ - Click Post Note
+ - Log out of John's account
+ - Log in using administrator account
+ - 
+
+   
         
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
