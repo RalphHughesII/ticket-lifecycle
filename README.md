@@ -100,6 +100,10 @@ Resolving Tickets
      - Scroll down to Reply section
         - Type "Coordinating with Sys Admin Team to bring mobile banking back to life" in the text box below post reply
         - Click Post Reply
+        - Type "Jerry corrected the error.  Mobile bank should be back up" in the text box
+        - Change ticket status to resolved
+        - Click Post Reply
+
       
 <img src="https://i.imgur.com/1EGb44H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
